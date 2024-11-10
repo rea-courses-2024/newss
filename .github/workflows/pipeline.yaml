@@ -3,7 +3,7 @@ name: Python_pipeline
 on:
   push:
     branches:
-      - news
+      - master
 
 jobs:
   checkstyle_project:
